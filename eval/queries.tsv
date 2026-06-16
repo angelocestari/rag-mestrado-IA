@@ -1,5 +1,10 @@
-q1	document image understanding
-q2	layoutlm pre-training
-q3	text and layout information
-q4	form understanding
-q5	receipt image classification
+q1	layoutlm for document understanding
+q2	document image understanding with transformers
+q3	pretrained models for document ai
+q4	layout aware language models
+q5	ocr free document understanding
+q6	multimodal document analysis
+q7	document visual question answering
+q8	information extraction from documents
+q9	document foundation models
+q10	document intelligence benchmarks
